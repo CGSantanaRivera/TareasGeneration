@@ -1,0 +1,32 @@
+:root{
+    --bg-color: #D1E9F6;
+
+    background-color: #D1E9F6;
+    color: var(--text-color);
+    height: 500vh;
+    margin: 0;
+    position: absolute;
+    left: 10%;
+    
+    text-align: justify;
+}
+
+.container{
+    background-color: #D1E9F6;
+}
+
+nav{
+    border: solid black;
+}
+
+/* div{
+    border: 2px solid black;
+}
+
+.fixed-container{
+    border: 3px solid white;
+}
+
+#fixed{
+    position: fixed;
+} */
